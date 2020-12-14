@@ -1,4 +1,3 @@
-const { performance } = require('perf_hooks');
 const consoleUtil = require(`${process.cwd()}/util/console`);
 
 module.exports = async client => {
